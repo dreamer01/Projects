@@ -1,0 +1,18 @@
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\bin\Debug\Port File Transfer.exe.config
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\bin\Debug\Port File Transfer.exe
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\bin\Debug\Port File Transfer.pdb
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.csprojResolveAssemblyReference.cache
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port_File_Transfer.Properties.Resources.resources
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.csproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.exe
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.pdb
+c:\users\compaq\documents\visual studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port_File_Transfer.Port_File_Transfer.resources
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\bin\Debug\Port File Transfer.exe.config
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.exe
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.pdb
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.csprojResolveAssemblyReference.cache
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port_File_Transfer.Port_File_Transfer.resources
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port_File_Transfer.Properties.Resources.resources
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\obj\Debug\Port File Transfer.csproj.GenerateResource.Cache
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\bin\Debug\Port File Transfer.exe
+C:\Users\sony\OneDrive\Documents\Workspace\Visual Studio 2013\Projects\Port File Transfer\Port File Transfer\bin\Debug\Port File Transfer.pdb
